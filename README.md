@@ -1,5 +1,5 @@
 # Clock
-A simple digital and analog clock made using HTML + CSS + Javascript.
+A simple digital and analog clock made using HTML5 + CSS + Javascript.
 
 Screenshots
 
